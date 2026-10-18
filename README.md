@@ -44,7 +44,3 @@ Then open `http://localhost:8501` in a browser.
 ## Model source
 
 Model card and labels: https://huggingface.co/CrabInHoney/urlbert-tiny-v4-phishing-classifier
-
-=======
-# PhishGuard-AI
->>>>>>> d6e072007a3db52c791c7de3683214bf65cfe9a2
