@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.env
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Virtual Environments
+.venv/
+env/
+
+# Large binaries, models, and libraries
+*.dll
+*.so
+*.pyd
+*.pt
+*.bin
+*.h5
+*.weights
