@@ -1,0 +1,21 @@
+[theme]
+base = "dark"
+primaryColor = "#41D6C3"
+backgroundColor = "#08111F"
+secondaryBackgroundColor = "#101C2D"
+textColor = "#EFF5FF"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS false
+enableXsrfProtection false
+
+[server.fileWatcherType]
+type = "watchdog"
+
+[server.maxUploadSize]
+size = 200
+
+[server.maxMessageSize]
+size = 200

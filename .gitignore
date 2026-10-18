@@ -15,7 +15,6 @@ build/
 *.egg
 
 # Streamlit
-.streamlit/
 
 # Jupyter
 *.ipynb_checkpoints/
